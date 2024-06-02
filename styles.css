@@ -259,3 +259,24 @@ body {
 .additional-info__languages-item {
   color: var(--secondary-text-color);
 }
+
+.certificates__header,
+.hobbies__header {
+  color: var(--secondary-text-color);
+  text-align: left;
+  margin-bottom: 15px;
+}
+
+.certificates__list {
+  padding-left: 20px;
+  color: var(--secondary-text-color);
+}
+
+.certificates__item {
+  margin-bottom: 10px;
+}
+
+.hobbies__text {
+  color: var(--secondary-text-color);
+  text-align: justify;
+}
